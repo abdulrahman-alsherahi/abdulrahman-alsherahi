@@ -28,19 +28,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-alsharahi&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-alsherahi&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahman-alsharahi&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahman-alsherahi&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-alsharahi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-alsherahi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 👀 Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=abdulrahman-alsharahi&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=abdulrahman-alsherahi&color=blue)
 
 ---
 
