@@ -1,16 +1,70 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abdulrahman%20Al-Sharahi&fontSize=40&fontColor=ffffff"/>
 
-<!--
-**abdulrahman-alsherahi/abdulrahman-alsherahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋, I'm Abdulrahman Al-Sharahi
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student in Germany 🇩🇪  
+💻 Learning Programming and Building Projects  
+🔐 Interested in Cybersecurity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering student  
+- 💻 Currently learning **Python & C++**
+- 🔐 Interested in **Cybersecurity & Ethical Hacking**
+- 🚀 Building small projects to improve my skills
+- 📚 Learning something new every day
+
+---
+
+## 🛠 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-alsharahi&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahman-alsharahi&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-alsharahi&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 My Projects
+
+- 🎮 Tic Tac Toe Game (C++)
+- 📋 To-Do List App (Python)
+- 🎯 Number Guessing Game
+- ⏱ Pomodoro Timer
+- 🧮 Age Calculator
+- 🔢 Number System Converter
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=abdulrahman-alsharahi&color=blue)
+
+---
+
+⭐ Always learning and improving every day.
